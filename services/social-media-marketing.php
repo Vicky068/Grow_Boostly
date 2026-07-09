@@ -150,8 +150,7 @@
       "priceRange": "$$",
       "currenciesAccepted": "INR, USD, GBP, AED",
       "paymentAccepted": "Credit Card, Bank Transfer, UPI",
-      "openingHoursSpecification": { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"], "opens": "09:00", "closes": "18:00" },
-   }
+      "openingHoursSpecification": { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"], "opens": "09:00", "closes": "18:00" }}
   ]
 }
 </script>

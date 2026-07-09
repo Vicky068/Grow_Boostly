@@ -122,8 +122,7 @@
           { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "AI Citation Monitoring and Reporting", "description": "Ongoing monitoring of brand citation frequency, sentiment and positioning across ChatGPT, Perplexity, Gemini and Google AI Mode." } },
           { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "AI SEO Audit", "description": "Comprehensive audit of your current AI search visibility — identifying citation gaps, content gaps and GEO optimisation opportunities." } }
         ]
-      },
-   },
+      }},
     {
       "@type": "FAQPage",
       "@id": "https://www.growboostly.com/services/ai-powered-seo",
@@ -147,8 +146,7 @@
       "address": { "@type": "PostalAddress", "streetAddress": "4th Floor, Alambag", "addressLocality": "Lucknow", "addressRegion": "Uttar Pradesh", "postalCode": "226012", "addressCountry": "IN" },
       "priceRange": "$$",
       "currenciesAccepted": "INR, USD, GBP, AED",
-      "openingHoursSpecification": { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"], "opens": "09:00", "closes": "18:00" },
-  }
+      "openingHoursSpecification": { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"], "opens": "09:00", "closes": "18:00" }}
   ]
 }
 </script>

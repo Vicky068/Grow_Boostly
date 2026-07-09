@@ -120,8 +120,7 @@
           { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Apple In-App Events and Custom Product Pages", "description": "Setting up and optimising Apple In-App Events and Custom Product Pages for 15-20% more impressions from editorial and browse placements." } },
           { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "ASO Monitoring and Reporting", "description": "Ongoing keyword ranking monitoring, conversion rate tracking, competitor analysis and monthly ASO performance reporting." } }
         ]
-      },
-    },
+      }},
     {
       "@type": "FAQPage",
       "@id": "https://www.growboostly.com/services/app-store-optimisation",
@@ -145,8 +144,7 @@
       "address": { "@type": "PostalAddress", "streetAddress": "4th Floor, Alambag", "addressLocality": "Lucknow", "addressRegion": "Uttar Pradesh", "postalCode": "226012", "addressCountry": "IN" },
       "priceRange": "$$",
       "currenciesAccepted": "INR, USD, GBP, AED",
-      "openingHoursSpecification": { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"], "opens": "09:00", "closes": "18:00" },
-   }
+      "openingHoursSpecification": { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"], "opens": "09:00", "closes": "18:00" }}
   ]
 }
 </script>

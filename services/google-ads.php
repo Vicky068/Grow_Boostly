@@ -1,6 +1,7 @@
 <!doctype html>
 <html lang="en">
-<head>
+<head>
+
 <?php include __DIR__ . '/../includes/google-tag.php'; ?>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -74,7 +75,7 @@
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://www.growboostly.com/services/google-ads#breadcrumb",
+      "@id": "https://www.growboostly.com/services/google-ads",
       "itemListElement": [
         { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.growboostly.com" },
         { "@type": "ListItem", "position": 2, "name": "Services", "item": "https://www.growboostly.com/services/" },
@@ -84,7 +85,7 @@
     },
     {
       "@type": "Service",
-      "@id": "https://www.growboostly.com/services/google-ads#service",
+      "@id": "https://www.growboostly.com/services/google-ads",
       "name": "Google Ads Management Service",
       "alternateName": ["PPC Management Service","Google Ads Agency","Pay Per Click Management Service","Google Ads PPC Agency","Google Search Ads Management","Google Ads Campaign Management"],
       "description": "Professional Google Ads (PPC) management service. We plan, build, launch and optimise high-ROI Google Ads campaigns across Search, Display, Shopping, YouTube and Performance Max — driving targeted traffic, quality leads and measurable revenue for businesses globally.",
@@ -114,7 +115,7 @@
   },
     {
       "@type": "FAQPage",
-      "@id": "https://www.growboostly.com/services/google-ads#faq",
+      "@id": "https://www.growboostly.com/services/google-ads",
       "mainEntity": [
         { "@type": "Question", "name": "How much does Google Ads management cost?", "acceptedAnswer": { "@type": "Answer", "text": "Our Google Ads management fees depend on your monthly ad spend, campaign complexity and the number of campaigns managed. We offer flexible packages for businesses of all sizes — from startups spending $500 per month to enterprises with $100,000+ monthly budgets. During your free audit session, we will recommend the right package and expected ROI for your specific business and goals." } },
         { "@type": "Question", "name": "How quickly will I see results from Google Ads?", "acceptedAnswer": { "@type": "Answer", "text": "Unlike SEO, Google Ads delivers immediate visibility — your ads can appear in Google search results the same day your campaign launches. Most businesses see their first leads within 24 to 72 hours of going live. However, campaign optimisation takes 4 to 8 weeks to reach peak performance as the algorithm learns and our team refines bidding, targeting and ad copy based on real performance data." } },

@@ -137,8 +137,7 @@
       "email": "growboostly@gmail.com",
       "address": { "@type": "PostalAddress", "streetAddress": "4th Floor, Alambag", "addressLocality": "Lucknow", "addressRegion": "Uttar Pradesh", "postalCode": "226012", "addressCountry": "IN" },
       "priceRange": "$$",
-      "openingHoursSpecification": { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"], "opens": "09:00", "closes": "18:00" },
-   }
+      "openingHoursSpecification": { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"], "opens": "09:00", "closes": "18:00" }}
   ]
 }
 </script>

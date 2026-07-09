@@ -116,8 +116,7 @@
           { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Performance and Speed Optimisation", "description": "Sub-2-second load time optimisation — critical as bounce rate rises 32% when load time increases from 1 to 3 seconds." } },
           { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Analytics, Training and Launch Support", "description": "Google Analytics 4 setup, Search Console configuration, CMS training and post-launch support — ensuring your team can manage and measure the site independently." } }
         ]
-      },
-    },
+      }},
     {
       "@type": "FAQPage",
       "@id": "https://www.growboostly.com/services/business-website-development",
@@ -141,8 +140,7 @@
       "address": { "@type": "PostalAddress", "streetAddress": "4th Floor, Alambag", "addressLocality": "Lucknow", "addressRegion": "Uttar Pradesh", "postalCode": "226012", "addressCountry": "IN" },
       "priceRange": "$$",
       "currenciesAccepted": "INR, USD, GBP, AED",
-      "openingHoursSpecification": { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"], "opens": "09:00", "closes": "18:00" },
-    }
+      "openingHoursSpecification": { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"], "opens": "09:00", "closes": "18:00" }}
   ]
 }
 </script>

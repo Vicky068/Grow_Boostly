@@ -116,8 +116,7 @@
           { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "YouTube Analytics and Reporting", "description": "Monthly YouTube Studio analytics reporting covering watch time, subscriber growth, CTR, average view duration, revenue and channel health metrics." } },
           { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "YouTube Monetisation and Creator Economy Strategy", "description": "YouTube Partner Programme optimisation, sponsorship strategy, merchandise integration and multi-revenue-stream channel monetisation planning." } }
         ]
-      },
-    },
+      }},
     {
       "@type": "FAQPage",
       "@id": "https://www.growboostly.com/services/youtube-marketing",
@@ -141,8 +140,7 @@
       "address": { "@type": "PostalAddress", "streetAddress": "4th Floor, Alambag", "addressLocality": "Lucknow", "addressRegion": "Uttar Pradesh", "postalCode": "226012", "addressCountry": "IN" },
       "priceRange": "$$",
       "currenciesAccepted": "INR, USD, GBP, AED",
-      "openingHoursSpecification": { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"], "opens": "09:00", "closes": "18:00" },
-   }
+      "openingHoursSpecification": { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"], "opens": "09:00", "closes": "18:00" }}
   ]
 }
 </script>

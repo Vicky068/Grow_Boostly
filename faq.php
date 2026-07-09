@@ -171,8 +171,7 @@ foreach ($faq_categories as $cat) {
     <script type="application/ld+json"><?php echo json_encode([
         '@context' => 'https://schema.org',
         '@type' => 'FAQPage',
-        'mainEntity' => $faq_schema,
-    ], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE); ?></script>
+        'mainEntity' => $faq_schema], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE); ?></script>
     <style>
         :root {
             --faq-blue: #2563eb;

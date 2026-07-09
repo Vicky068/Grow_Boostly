@@ -119,8 +119,7 @@
           { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Thought Leadership Content", "description": "Expert-led thought leadership articles, white papers, research reports and opinion pieces that build brand authority and E-E-A-T signals." } },
           { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Content Distribution and Amplification", "description": "Multi-channel content distribution across SEO, social, email and PR — ensuring every content asset reaches maximum qualified audience." } }
         ]
-      },
-    },
+      }},
     {
       "@type": "FAQPage",
       "@id": "https://www.growboostly.com/services/content-marketing",
@@ -144,8 +143,7 @@
       "address": { "@type": "PostalAddress", "streetAddress": "4th Floor, Alambag", "addressLocality": "Lucknow", "addressRegion": "Uttar Pradesh", "postalCode": "226012", "addressCountry": "IN" },
       "priceRange": "$$",
       "currenciesAccepted": "INR, USD, GBP, AED",
-      "openingHoursSpecification": { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"], "opens": "09:00", "closes": "18:00" },
-  }
+      "openingHoursSpecification": { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"], "opens": "09:00", "closes": "18:00" }}
   ]
 }
 </script>

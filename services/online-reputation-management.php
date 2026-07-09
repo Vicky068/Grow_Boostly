@@ -119,8 +119,7 @@
           { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "AI Reputation Management", "description": "Monitoring and optimising how AI systems like ChatGPT, Gemini and Perplexity represent your brand across major AI platforms." } },
           { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "SERP Reputation Building", "description": "Building a positive, brand-controlled Page 1 Google presence through strategic content, PR and digital authority — so buyers see your best face first." } }
         ]
-      },
-   },
+      }},
     {
       "@type": "FAQPage",
       "@id": "https://www.growboostly.com/services/online-reputation-management",
@@ -144,8 +143,7 @@
       "address": { "@type": "PostalAddress", "streetAddress": "4th Floor, Alambag", "addressLocality": "Lucknow", "addressRegion": "Uttar Pradesh", "postalCode": "226012", "addressCountry": "IN" },
       "priceRange": "$$",
       "currenciesAccepted": "INR, USD, GBP, AED",
-      "openingHoursSpecification": { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"], "opens": "09:00", "closes": "18:00" },
-   }
+      "openingHoursSpecification": { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"], "opens": "09:00", "closes": "18:00" }}
   ]
 }
 </script>

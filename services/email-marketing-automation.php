@@ -119,8 +119,7 @@
           { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "AI-Powered Personalisation and Segmentation", "description": "AI-supported personalization, behavioral segmentation, dynamic content, and send-time optimization to improve campaign relevance." } },
           { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Email Deliverability Optimisation", "description": "Technical deliverability audit covering SPF, DKIM, DMARC, sender reputation, list hygiene and inbox placement — ensuring your emails actually reach the inbox." } }
         ]
-      },
-    },
+      }},
     {
       "@type": "FAQPage",
       "@id": "https://www.growboostly.com/services/email-marketing-automation",
@@ -144,8 +143,7 @@
       "address": { "@type": "PostalAddress", "streetAddress": "4th Floor, Alambag", "addressLocality": "Lucknow", "addressRegion": "Uttar Pradesh", "postalCode": "226012", "addressCountry": "IN" },
       "priceRange": "$$",
       "currenciesAccepted": "INR, USD, GBP, AED",
-      "openingHoursSpecification": { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"], "opens": "09:00", "closes": "18:00" },
-    }
+      "openingHoursSpecification": { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"], "opens": "09:00", "closes": "18:00" }}
   ]
 }
 </script>

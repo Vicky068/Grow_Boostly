@@ -37,12 +37,17 @@
 <meta property="og:url" content="https://www.growboostly.com/">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="GrowBoostly">
-<meta property="og:image" content="https://www.growboostly.com/assets/img/logo.png">
+<meta property="og:image" content="https://www.growboostly.com/assets/img/home4/homepage-hero-new.png">
+<meta property="og:image:secure_url" content="https://www.growboostly.com/assets/img/home4/homepage-hero-new.png">
+<meta property="og:image:width" content="1024">
+<meta property="og:image:height" content="1024">
+<meta property="og:image:alt" content="GrowBoostly digital marketing and lead generation agency">
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="GrowBoostly | Lead Generation & Digital Marketing Agency in India">
 <meta name="twitter:description" content="GrowBoostly is a digital marketing and lead generation agency in India helping businesses grow with SEO, Google Ads, Meta Ads, website development, landing pages, CRM automation and WhatsApp automation.">
-<meta name="twitter:image" content="https://www.growboostly.com/assets/img/logo.png">
+<meta name="twitter:image" content="https://www.growboostly.com/assets/img/home4/homepage-hero-new.png">
+<meta name="twitter:image:alt" content="GrowBoostly digital marketing and lead generation agency">
 
 <script type="application/ld+json">
 {
